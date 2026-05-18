@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude doctor *)",
+      "Bash(vercel --version)",
+      "Bash(npm install *)",
+      "Bash(vercel whoami *)",
+      "Bash(vercel *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
