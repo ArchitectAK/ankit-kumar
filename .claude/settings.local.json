@@ -7,7 +7,8 @@
       "Bash(vercel whoami *)",
       "Bash(vercel *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git *)"
     ]
   }
 }
